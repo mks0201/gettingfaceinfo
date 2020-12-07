@@ -1,0 +1,11 @@
+Reference
+
+Face Recognition
+https://www.kaggle.com/rahulverma7788/face-recognition-using-keras
+
+Clova Face Recognition
+https://developers.naver.com/docs/clova/api/CFR/API_Guide.md#Python
+
+Face Emotion
+https://blog.naver.com/handuelly/221854592096
+
